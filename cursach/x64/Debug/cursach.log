@@ -1,3 +1,3 @@
 ﻿  cursach.cpp
-D:\profiles\PetrovG_81\source\repos\cursach\cursach\cursach.cpp(22,59): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  cursach.vcxproj -> D:\profiles\PetrovG_81\source\repos\cursach\x64\Debug\cursach.exe
+C:\Users\PetrovG_81\Desktop\cursach\Cursach\cursach\cursach.cpp(44,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  cursach.vcxproj -> C:\Users\PetrovG_81\Desktop\cursach\Cursach\x64\Debug\cursach.exe
